@@ -8,7 +8,7 @@ This project focuses on creating a clean, professional, and visually engaging fr
 
 ### 🎥 Demo Video
 
-[▶️ Watch Complete Frontend Demo](screenshots/demoVideo.mp4)
+Coming soon!
 
 ---
 
@@ -476,7 +476,7 @@ Possible future improvements include:
 
 # 👨‍💻 Developer
 
-**Sayan**
+**Sayan Ali Mallick**
 
 B.Tech CSE Student | Aspiring Software Engineer | MERN Stack Developer
 
